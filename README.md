@@ -4,7 +4,7 @@ This repository contains three Python scripts ('midpoint_rooting.py', 'add_linea
 
 ## `midpoint_rooting.py`
 
-The midpoint_rooting.py script is used for applying midpoint rooting to a phylogenetic tree. Midpoint rooting is a technique that helps to place the root of a tree at a midpoint, typically equidistant from its most distant tips. In the context of this project, the second hit for XPA was used as a reference point to manually place the tree root.
+The midpoint_rooting.py script is used for applying midpoint rooting to phylogenetic trees. Midpoint rooting is a technique that helps to place the root of a tree at a midpoint, typically equidistant from its most distant tips. In the context of this project, the second hit for XPA was used as a reference point to manually place the tree root after midpoint rooting.
 
 ```python midpoint_rooting.py input_tree_file output_tree_file```
 
